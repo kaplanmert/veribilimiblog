@@ -1,1 +1,4 @@
 # veribilimiblog
+
+  Veri bilimi alanında, son zamanlarda sessiz sessiz bir devrim gerçekleşiyor. Bu alanın genişlemesinin ve gelişmesinin en büyük sebeplerinden birisi gelişen teknolojidir. Gelişen teknoloji sayesinde var olan makine öğrenmesi algoritmaları çok büyük verilerle işlenebiliyor ve verimli sonuçlar ortaya konulabiliyor. Bu makine öğrenmesi algoritmaları da günden güne gelişiyor. Makine öğrenmenin önemli bir alanı olan yapay sinir ağlarına bir bakalım.
+  Bizi zeki yapan beynimizdir, beynimiz sayesinde görür, işitir, planlar, eylem yaparız. Bundan dolayı bu yeteneğe sahip makineler gerçeklemeye çalışırken ilk ilham kaynağı insan beynidir. Yapmak istenilen, beynin nasıl işlediğine bakmak ve yaptığı şeyi nasıl yaptığı hakkında bir kavrayış kazanmaya çalışmaktır. Bundan bir soyut, matematiksel ve hesaplamalı bir açıklamaya çıkartmaya çalışılınır. 
